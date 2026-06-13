@@ -1,20 +1,23 @@
-# Noor Frame Studio Portal
+# Launch Check Trial
 
-Photography studio website plus private client gallery delivery portal.
+Static trial website prepared for local preview and live hosting checks.
 
-## View
+Live URL after GitHub Pages deploy:
 
-Open `index.html` in a browser.
+https://shivamupload1.github.io/Trial_1/
 
-## Main idea
+## Files
 
-- Public studio website for portfolio, services, packages and booking.
-- Private event gallery for clients and guests.
-- Separate Google Drive account support for each client.
-- Original photos/videos stay private in Google Drive.
-- Website loads thumbnails and watermarked previews so it stays fast.
-- Admin status board shows website preview, Drive sync, preview generation and download link status.
+- `index.html`
+- `styles.css`
+- `script.js`
+- `.github/workflows/pages.yml`
+- `.nojekyll`
 
-## Next step
+## Preview
 
-Enable GitHub Pages from repository settings and serve from the `main` branch root to get a public website link.
+Open `index.html` in a browser, or serve the folder with any static server.
+
+## Deploy
+
+Upload the contents of this `site` folder to GitHub Pages, Netlify, Vercel, Cloudflare Pages, or any static hosting service.
