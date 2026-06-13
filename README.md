@@ -6,6 +6,8 @@ Live URL after GitHub Pages deploy:
 
 https://shivamupload1.github.io/Trial_1/
 
+Last deployment trigger: 2026-06-13 21:24:33 +05:30
+
 ## Files
 
 - `index.html`
