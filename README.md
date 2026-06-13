@@ -13,7 +13,6 @@ Last deployment trigger: 2026-06-13 21:24:33 +05:30
 - `index.html`
 - `styles.css`
 - `script.js`
-- `.github/workflows/pages.yml`
 - `.nojekyll`
 
 ## Preview
